@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TwoHealTest</string>
+    <string name="btn1">查看所有竞赛信息</string>
+    <string name="btn2">增加一条竞赛信息</string>
+    <string name="btn3">删除一条竞赛信息</string>
+    <string name="add_hint1">输入添加的竞赛的名称</string>
+    <string name="add_hint2">输入竞赛状态</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="delete_hint">输入删除的竞赛的编号</string>
+</resources>
